@@ -6,7 +6,7 @@ Mojolicious::Plugin::Web::Auth::Site::DropboxV2 - Dropbox OAuth2 Plugin for Mojo
 
 # VERSION
 
-version 0.001
+version 0.000001
 
 # SYNOPSIS
 
