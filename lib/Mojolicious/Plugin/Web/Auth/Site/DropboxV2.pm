@@ -2,6 +2,7 @@ use strict;
 use warnings;
 
 package Mojolicious::Plugin::Web::Auth::Site::DropboxV2;
+our $VERSION = '0.000002';
 use Mojo::Base qw/Mojolicious::Plugin::Web::Auth::OAuth2/;
 
 has access_token_url => 'https://api.dropboxapi.com/oauth2/token';
